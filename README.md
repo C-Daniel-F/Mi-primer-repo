@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mi-primer-repositorio
 
 ---
@@ -7,3 +8,7 @@
 > ## Primera publicación en Github para conocer más del sitio.
 
 ---
+=======
+# Mi-primer-repo
+Mi hobby es dibujar a mano o escuchar música.
+>>>>>>> Agregar-hobby
