@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mi-primer-repositorio
 
 ---
