@@ -7,11 +7,3 @@
 
 > ## Primera publicación en Github para conocer más del sitio.
 
----
-=======
-# Mi-primer-repo
-Mi hobby es dibujar a mano o escuchar música.
-<<<<<<< HEAD
->>>>>>> Agregar-hobby
-=======
->>>>>>> Agregar-hobby
